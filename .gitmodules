@@ -1,0 +1,3 @@
+[submodule "sub-project2"]
+	path = sub-project2
+	url = git@github.com:tomotake-max/sub-project2.git
